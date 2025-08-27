@@ -19,3 +19,9 @@ npm run dev # Run dev
 open http://localhost:3000 # Check if be is working
 open http://localhost:5173 # Check if fe is working
 ```
+
+Tests:
+```
+npm run test
+npm run test -- --watch
+```
