@@ -1,4 +1,4 @@
-This is base for requirement task. Main code will be delivered later.
+This is base for recruitment task. Main code will be delivered later.
 For now, please setup environment and install dependencies.
 
 Requirements:
