@@ -3,9 +3,6 @@
 
 <template>
   <div>
-    <h1>Main View</h1>
+    <h1>Products</h1>
   </div>
 </template>
-
-<style scoped>
-</style>

@@ -1,7 +1,7 @@
 <script setup lang="ts">
-  import MainView from './components/MainView.vue'
+  import ProductsList from './products_client/ProductsList.vue'
 </script>
 
 <template>
-  <MainView />
+  <ProductsList />
 </template>
